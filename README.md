@@ -7,8 +7,8 @@ https://www.youtube.com/watch?v=XAFfvt0Fej0&list=PLf8x7B3nFTl1YHSwrBZPY5ASdDdzOP
 Em SeleniumWbdriver - Java
 
 Neste curso ele ensina passo a passao como criar um teste automatizado do zero
-ele ensina aprogramar, mais uma programação voltada para teste.
-Ai esta o repositório fiquem a vontade para baixar
+ele ensina a programar, mais uma programação voltada para teste.
+Ai está o repositório fiquem a vontade para baixar clonar e estudar
 
 </p>
 <br/><br/>
